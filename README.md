@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | DevOps | Cloud Infrastructure | CI/CD Automation**
 
-I'm a software engineer with 15+ years of experience building and operating enterprise systems. My focus is on **DevOps engineering** — bridging development and operations through cloud infrastructure, CI/CD pipelines, containerization, and Infrastructure as Code.
+I'm a seasoned software engineer with deep hands-on experience building and operating enterprise systems. My focus is on **DevOps engineering** — bridging development and operations through cloud infrastructure, CI/CD pipelines, containerization, and Infrastructure as Code.
 
 I've led cloud migrations from on-premise to AWS, built automated deployment pipelines with Azure DevOps, and maintained production systems serving global teams across automotive, aviation, and consulting industries.
 
