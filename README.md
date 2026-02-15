@@ -38,12 +38,12 @@ I've led cloud migrations from on-premise to AWS, built automated deployment pip
 
 | Repository | What It Does | Stack |
 |:-----------|:-------------|:------|
-| [dotnet-api-docker](https://github.com/YOUR_USERNAME/dotnet-api-docker) | .NET Web API containerized with Docker Compose, health checks & multi-stage builds | `.NET` `Docker` |
-| [terraform-azure-infrastructure](https://github.com/YOUR_USERNAME/terraform-azure-infrastructure) | Terraform modules to provision Azure App Service, SQL Database, Key Vault & monitoring | `Terraform` `Azure` |
-| [ci-cd-pipeline-templates](https://github.com/YOUR_USERNAME/ci-cd-pipeline-templates) | Reusable Azure DevOps & GitHub Actions YAML pipelines for .NET, Docker & Terraform | `CI/CD` `YAML` |
-| [dotnet-microservices-demo](https://github.com/YOUR_USERNAME/dotnet-microservices-demo) | Multi-service .NET app with RabbitMQ messaging, all running in Docker Compose | `.NET` `RabbitMQ` `Docker` |
-| [monitoring-observability-stack](https://github.com/YOUR_USERNAME/monitoring-observability-stack) | Prometheus + Grafana monitoring for .NET apps with ready-to-use dashboards | `Prometheus` `Grafana` |
-| [cloud-migration-playbook](https://github.com/YOUR_USERNAME/cloud-migration-playbook) | Runbooks, checklists & lessons learned from migrating on-premise systems to AWS | `Documentation` |
+| [dotnet-api-docker](https://github.com/NeyamatUllah/dotnet-api-docker) | .NET Web API containerized with Docker Compose, health checks & multi-stage builds | `.NET` `Docker` |
+| [terraform-azure-infrastructure](https://github.com/NeyamatUllah/terraform-azure-infrastructure) | Terraform modules to provision Azure App Service, SQL Database, Key Vault & monitoring | `Terraform` `Azure` |
+| [ci-cd-pipeline-templates](https://github.com/NeyamatUllah/ci-cd-pipeline-templates) | Reusable Azure DevOps & GitHub Actions YAML pipelines for .NET, Docker & Terraform | `CI/CD` `YAML` |
+| [dotnet-microservices-demo](https://github.com/NeyamatUllah/dotnet-microservices-demo) | Multi-service .NET app with RabbitMQ messaging, all running in Docker Compose | `.NET` `RabbitMQ` `Docker` |
+| [monitoring-observability-stack](https://github.com/NeyamatUllah/monitoring-observability-stack) | Prometheus + Grafana monitoring for .NET apps with ready-to-use dashboards | `Prometheus` `Grafana` |
+| [cloud-migration-playbook](https://github.com/NeyamatUllah/cloud-migration-playbook) | Runbooks, checklists & lessons learned from migrating on-premise systems to AWS | `Documentation` |
 
 > ⬆️ *Building these out progressively — star and watch for updates!*
 
